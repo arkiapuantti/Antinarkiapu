@@ -1,0 +1,43 @@
+<!DOCTYPE html><html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antin Arkiapu</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; background:#f5f5f5; color:#333; }
+    header { background:#2c3e50; color:white; padding:20px; text-align:center; }
+    section { padding:20px; max-width:900px; margin:auto; background:white; margin-top:20px; border-radius:10px; }
+    h1,h2 { margin-top:0; }
+    .price { font-weight:bold; color:#e67e22; }
+    footer { text-align:center; padding:20px; font-size:14px; color:#777; }
+    .btn { display:inline-block; padding:10px 15px; background:#27ae60; color:white; text-decoration:none; border-radius:5px; margin-top:10px; }
+  </style>
+</head>
+<body><header>
+  <h1>Antin Arkiapu</h1>
+  <p>Luotettavaa apua arkeen – Pori ja lähialueet</p>
+</header><section>
+  <h2>Esittely</h2>
+  <p>Hei! Olen Antti, kuljetusalan ammattilainen ja suurperheen isä. Yritykseni syntyi aidosta halusta auttaa ihmisiä arjessa – ja unelmasta tehdä siitä työ itselleni ja perheelleni.</p>
+</section><section>
+  <h2>Palvelut</h2>
+  <ul>
+    <li>Kaupassa käynti ja asiointiapu</li>
+    <li>Kuljetukset</li>
+    <li>Kotiapu ja pienet arjen askareet</li>
+    <li>Apua ikäihmisille</li>
+  </ul>
+</section><section>
+  <h2>Hinnasto</h2>
+  <p class="price">35€/h + 0,5€/km</p>
+  <p class="price">Kokopäivä 199€ (norm. 249€/8h, sis. 100km ajoa)</p>
+  <p>Tarjous voimassa 30.4.2026 asti</p>
+</section><section>
+  <h2>Yhteystiedot</h2>
+  <p>📞 045666140</p>
+  <p>📧 arkiapuantti@gmail.com</p>
+  <a class="btn" href="tel:045666140">Soita nyt</a>
+</section><footer>
+  <p>© 2026 Antin Arkiapu</p>
+</footer></body>
+</html>
